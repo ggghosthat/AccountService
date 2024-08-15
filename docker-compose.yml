@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   webapi:
-    image: AccountService
+    image: AccountService.API
     build:
       context: .
       dockerfile: AccountService.API/Dockerfile
