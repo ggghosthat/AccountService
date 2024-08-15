@@ -1,0 +1,10 @@
+AccountService.API/bin
+AccountService.API/obj
+AccountService.Contracts/bin
+AccountService.Contracts/obj
+AccountService.Entity/bin
+AccountService.Entity/obj
+AccountService.Repository/bin
+AccountService.Repository/obj
+AccountService.Tests/bin
+AccountService.Tests/obj

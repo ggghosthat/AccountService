@@ -1,0 +1,6 @@
+{
+  "AccountService.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\repos\\AccountService\\AccountService.API",
+  "AccountService.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\repos\\AccountService\\AccountService.Contracts",
+  "AccountService.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\repos\\AccountService\\AccountService.Entity",
+  "AccountService.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\repos\\AccountService\\AccountService.Repository"
+}
